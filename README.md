@@ -40,3 +40,6 @@ Start the frontend development server:
 ```
 
 ### The dashboard will be accessible at http://localhost:3000.
+
+
+![image](https://github.com/user-attachments/assets/eaf6c0c0-b2a6-404a-94a3-d6703e9e91d4)
